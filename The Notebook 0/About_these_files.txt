@@ -1,0 +1,22 @@
+About the files in this foldier:
+
+1-. Aboutdata: Muestra la lógica detrás del proceso de creación del corpus.
+2-. CountVectorizer(): Muestra cómo se trabajó el corpus para efectos de la creación del diccionario
+3-. LDASKTLresume: Incluye una breve descripción de lo que es la técnica LDA y a través de un ejemplo exponemos cómo será la metodología de
+    trabajo para llevar a cabo el modelo y las herramientas utilizadas en el proceso:
+    Metodología:
+           -Colección de la data 
+           -Preprocesamiento de la información
+           -Implementación del modelo
+           -Visualización.
+         
+-esquemaLDA.png:  imagen utilizada en LDASKTLresume.ipynb
+-gráficoLDA.png:  imagen utilizada en LDASKTLresume.ipynb
+-LDAintuición.png:imagen utilizada en LDASKTLresume.ipynb
+
+-abcnews-data-text.csv: dataset empleada para llevar a cabo el ejemplo en LDASKTLresume.ipynb
+
+-pionier_SE:  archivo pickle creado en CountVectorizer() 
+-pionier_SES: archivo pickle creado en CountVectorizer() 
+
+-config.py: archivo config
